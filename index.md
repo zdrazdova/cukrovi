@@ -27,24 +27,24 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 |------------------------------------------------------------|-----------|------------|
 | [Linecké](druhy/linecke)                           |           |            |
 | [Vanilkové rohlíčky](druhy/vanilkove_rohlicky)     |           |            |
-| [Třené rohlíčky](cukrovi/druhy/trene_rohlicky)             |           |            |
-| [Kakaové rohlíčky](cukrovi/druhy/kakaove_rohlicky)         |           |            |
-| [Kakaové pracny](cukrovi/druhy/kakaove_pracny)             |           |            |
-| [Kokosové pracny](cukrovi/druhy/kokosove_pracny)           |           |            |
-| [Vosí hnízda světlá](cukrovi/druhy/vosi_hnizda_svetla)     |           |            |
-| [Vosí hnízda ořechová](cukrovi/druhy/vosi_hnizda_orechova) |           |            |
-| [Vosí hnízda kakaova](cukrovi/druhy/vosi_hnizda_kakaova)   |           |            |
-| [Citronové cukroví](cukrovi/druhy/citronove_cukrovi)       |           |            |
-| [Ořechové košíčky](cukrovi/druhy/orechove_kosicky)         |           |            |
-| [Išelské dortíčky](/druhy/iselske_dorticky)         |           |            |
-| [Plněné ořechy](cukrovi/druhy/plnene_orechy)               |           |            |
-| [Perníčky](cukrovi/druhy/pernicky)                         |           |            |
-| [Kokosové hvězdičky](cukrovi/druhy/kokosove_hvezdicky)     |           |            |
-| [Kokosky](cukrovi/druhy/kokosky)                           |           |            |
-| [Vánoční pralinky](cukrovi/druhy/vanocni_cukrovi)          |           |            |
-| [Sněhové pusinky](cukrovi/druhy/snehove_pusinky)           |           |            |
-| [Medovníčky](cukrovi/druhy/medovnicky)                     |           |            |
-| [Crinkles](cukrovi/druhy/crinkles)                         |           |            |
+| [Třené rohlíčky](druhy/trene_rohlicky)             |           |            |
+| [Kakaové rohlíčky](druhy/kakaove_rohlicky)         |           |            |
+| [Kakaové pracny](druhy/kakaove_pracny)             |           |            |
+| [Kokosové pracny](druhy/kokosove_pracny)           |           |            |
+| [Vosí hnízda světlá](druhy/vosi_hnizda_svetla)     |           |            |
+| [Vosí hnízda ořechová](druhy/vosi_hnizda_orechova) |           |            |
+| [Vosí hnízda kakaova](druhy/vosi_hnizda_kakaova)   |           |            |
+| [Citronové cukroví](druhy/citronove_cukrovi)       |           |            |
+| [Ořechové košíčky](druhy/orechove_kosicky)         |           |            |
+| [Išelské dortíčky](druhy/iselske_dorticky)         |           |            |
+| [Plněné ořechy](druhy/plnene_orechy)               |           |            |
+| [Perníčky](druhy/pernicky)                         |           |            |
+| [Kokosové hvězdičky](druhy/kokosove_hvezdicky)     |           |            |
+| [Kokosky](druhy/kokosky)                           |           |            |
+| [Vánoční pralinky](druhy/vanocni_cukrovi)          |           |            |
+| [Sněhové pusinky](druhy/snehove_pusinky)           |           |            |
+| [Medovníčky](druhy/medovnicky)                     |           |            |
+| [Crinkles](druhy/crinkles)                         |           |            |
 
 
 
