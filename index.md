@@ -25,7 +25,7 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 
 | Druh                                                       | Fotka     | Poznámka   |
 |------------------------------------------------------------|-----------|------------|
-| [Linecké](cukrovi/druhy/linecke)                           |           |            |
+| [Linecké](/druhy/linecke)                           |           |            |
 | [Vanilkové rohlíčky](cukrovi/druhy/vanilkove_rohlicky)     |           |            |
 | [Třené rohlíčky](cukrovi/druhy/trene_rohlicky)             |           |            |
 | [Kakaové rohlíčky](cukrovi/druhy/kakaove_rohlicky)         |           |            |
@@ -36,7 +36,7 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 | [Vosí hnízda kakaova](cukrovi/druhy/vosi_hnizda_kakaova)   |           |            |
 | [Citronové cukroví](cukrovi/druhy/citronove_cukrovi)       |           |            |
 | [Ořechové košíčky](cukrovi/druhy/orechove_kosicky)         |           |            |
-| [Išelské dortíčky](cukrovi/druhy/iselske_dorticky)         |           |            |
+| [Išelské dortíčky](/druhy/iselske_dorticky)         |           |            |
 | [Plněné ořechy](cukrovi/druhy/plnene_orechy)               |           |            |
 | [Perníčky](cukrovi/druhy/pernicky)                         |           |            |
 | [Kokosové hvězdičky](cukrovi/druhy/kokosove_hvezdicky)     |           |            |
