@@ -20,30 +20,31 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 - Kokosky
 - Vánoční pralinky
 - Sněhové pusinky
-- Medovník
+- Medovníčky
 - Crinkles
 
-| Druh                        | Fotka     | Poznámka   |
-|-----------------------------|-----------|------------|
-| [Linecké](/druhy/linecke)   |           |            |
-| Vanilkové rohlíčky          |           |            |
-| Třené rohlíčky              |           |            |
-| Kakaové rohlíčky            |           |            |
-| Kakaové pracny              |           |            |
-| Kokosové pracny             |           |            |
-| Vosí hnízda světlá          |           |            |
-| Vosí hnízda ořechová        |           |            |
-| Citronové cukroví           |           |            |
-| Ořechové košíčky            |           |            |
-| Išelské dortíčky            |           |            |
-| Plněné ořechy               |           |            |
-| Perníčky                    |           |            |
-| Kokosové hvězdičky          |           |            |
-| Kokosky                     |           |            |
-| Vánoční pralinky            |           |            |
-| Sněhové pusinky             |           |            |
-| Medovník                    |           |            |
-| Crinkles                    |           |            |
+| Druh                                                       | Fotka     | Poznámka   |
+|------------------------------------------------------------|-----------|------------|
+| [Linecké](cukrovi/druhy/linecke)                           |           |            |
+| [Vanilkové rohlíčky](cukrovi/druhy/vanilkove_rohlicky)     |           |            |
+| [Třené rohlíčky](cukrovi/druhy/trene_rohlicky)             |           |            |
+| [Kakaové rohlíčky](cukrovi/druhy/kakaove_rohlicky)         |           |            |
+| [Kakaové pracny](cukrovi/druhy/kakaove_pracny)             |           |            |
+| [Kokosové pracny](cukrovi/druhy/kokosove_pracny)           |           |            |
+| [Vosí hnízda světlá](cukrovi/druhy/vosi_hnizda_svetla)     |           |            |
+| [Vosí hnízda ořechová](cukrovi/druhy/vosi_hnizda_orechova) |           |            |
+| [Vosí hnízda kakaova](cukrovi/druhy/vosi_hnizda_kakaova)   |           |            |
+| [Citronové cukroví](cukrovi/druhy/citronove_cukrovi)       |           |            |
+| [Ořechové košíčky](cukrovi/druhy/orechove_kosicky)         |           |            |
+| [Išelské dortíčky](cukrovi/druhy/iselske_dorticky)         |           |            |
+| [Plněné ořechy](cukrovi/druhy/plnene_orechy)               |           |            |
+| [Perníčky](cukrovi/druhy/pernicky)                         |           |            |
+| [Kokosové hvězdičky](cukrovi/druhy/kokosove_hvezdicky)     |           |            |
+| [Kokosky](cukrovi/druhy/kokosky)                           |           |            |
+| [Vánoční pralinky](cukrovi/druhy/vanocni_cukrovi)          |           |            |
+| [Sněhové pusinky](cukrovi/druhy/snehove_pusinky)           |           |            |
+| [Medovníčky](cukrovi/druhy/medovnicky)                     |           |            |
+| [Crinkles](cukrovi/druhy/crinkles)                         |           |            |
 
 
 
