@@ -25,9 +25,9 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 
 | Druh                                                       | Fotka     | Poznámka   |
 |------------------------------------------------------------|--------------------------------------------|------------|
-| [Linecké](druhy/linecke)                           | ![Linecké](/img/linecke.JPG)                       |            |
-| [Vanilkové rohlíčky](druhy/vanilkove_rohlicky)     | ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG) |            |
-| [Třené rohlíčky](druhy/trene_rohlicky)             | ![Třené rohlíčky](/img/trene_rohlicky.JPG)         |            |
+| ### [Linecké](druhy/linecke)                           | ![Linecké](/img/linecke.JPG)                       |            |
+| [### Vanilkové rohlíčky](druhy/vanilkove_rohlicky)     | ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG) |            |
+| **[Třené rohlíčky](druhy/trene_rohlicky)**             | ![Třené rohlíčky](/img/trene_rohlicky.JPG)         |            |
 | [Kakaové rohlíčky](druhy/kakaove_rohlicky)         | Není...                                            |            |
 | [Kakaové pracny](druhy/kakaove_pracny)             | ![Kakaové pracny](/img/kakaove_pracny.JPG)         |            |
 | [Kokosové pracny](druhy/kokosove_pracny)           | ![Kokosové pracny](/img/kokosove_pracny.JPG)       |            |
