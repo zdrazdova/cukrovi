@@ -31,7 +31,7 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 | [Kakaové rohlíčky](druhy/kakaove_rohlicky)         | Není...                                            |            |
 | [Kakaové pracny](druhy/kakaove_pracny)             | <img src="/img/kakaove_pracny.JPG" alt="Kakaové pracny" width="200"/>      |            |
 | [Kokosové pracny](druhy/kokosove_pracny)           | <img src="/img/kokosove_pracny.JPG" alt="Kokosové pracny" width="300"/>     |            |
-| [Vosí hnízda světlá](druhy/vosi_hnizda_svetla)     | ![Vosí hnízda světlá](/img/hnizdo_svetle.JPG)      |            |
+| [Vosí hnízda světlá](druhy/vosi_hnizda_svetla)     | ![Vosí hnízda světlá](/img/hnizdo_svetle.JPG =250x)      |            |
 | [Vosí hnízda ořechová](druhy/vosi_hnizda_orechova) | ![Vosí hnízda ořechová](/img/hnizdo_orechove.JPG)  |            |
 | [Vosí hnízda kakaova](druhy/vosi_hnizda_kakaova)   | ![Vosí hnízda kakaová](/img/hnizdo_kakaove.JPG)    |            |
 | [Citronové cukroví](druhy/citronove_cukrovi)       | ![Citronové cukroví](/img/citronove_cukrovi.JPG)   |            |
