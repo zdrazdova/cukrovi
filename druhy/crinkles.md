@@ -3,13 +3,13 @@
 - 120 g hladké mouky
 - 20 g mletých mandlí
 - 50 g holandského kakaa
-- 50 g másla pokojové teploty
+- 50 g másla
 - 120 g cukru krupice
 - 10 g vanilkového cukru
 - 7 g perníkového koření
 - špetka soli
 - 6 g kypřícího prášku do pečiva
-- 2 vejce pokojové teploty
+- 2 vejce
 
 Vyšleháme změklé máslo s cukrem, postupně přidáme vejce. Poté postupně přidáváme ostatní suroviny. Hotové těsto dáme přes noc do lednice, aby dostatečně ztuhlo.
 

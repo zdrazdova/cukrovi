@@ -1,15 +1,13 @@
 ### Ořechové košíčky
 
-**Těsto**
-*Stejné jako na Linecké*
-- 210 g hladké mouka 
+**Těsto** (*Stejné jako na Linecké*)
+- 210 g hladké mouky 
 - 70 g cukru moučka
 - 140 g másla
 - 2 žloutky
 - citronová kůra
 
-**Náplň**
-*Základ stejný jako do vosích hnízd*
+**Náplň** (*Základ stejný jako do vosích hnízd*)
 - 125 g másla
 - 2 lžíce polohrubé mouky
 - 100 ml mléka
@@ -21,7 +19,7 @@
 - Poloviny vlaškých ořechů
 
 
-Z lineckého těsta upeču ve formách košíčky. Hned po vyndání z trouby vyklepnu a nechám zchladnout. Použiji stejný základ náplně jako do vosích hníz, přidám k tomu nasekané ořechy podle chuti. Lžičkou dám náplň do košíčků. Nechám chvíli ztuhnou v chladu a nakonec pojili čokoládou a ozdobím ořechem. 
+Z lineckého těsta upečeme ve formách košíčky. Hned po vyndání z trouby vyklepneme a nechám zchladnout. Základ náplně je stejný jako do vosích hníz, akorát se k němu přidají nasekané ořechy podle chuti. Lžičkou dáme náplň do košíčků. Necháme chvíli ztuhnou v chladu a nakonec pojileme čokoládou a ozdobíme ořechem. 
 
 ![Ořechové košíčky](../img/kosicky.JPG)
 

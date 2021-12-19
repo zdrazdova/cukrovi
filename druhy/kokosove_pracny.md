@@ -9,9 +9,9 @@
 - 200 g strouhaného kokosu
 
 
-Změklé máslo šlehám s cukrem a po chvíli přidám vejce a ještě šlehám. Přisypu mouku, citronovou kůru a pořád míchám s pomocí ručního šlehače. Nakonec přidám kokos a opět zamíchám. Těsto poté ještě dopracuji hnětením. 
+Změklé máslo šleháme s cukrem a po chvíli přidáme vejce a ještě šleháme. Přisypeme mouku, citronovou kůru a pořád mícháme s pomocí ručního šlehače. Nakonec přidáme kokos a opět zamícháme. Těsto poté ještě dopracujeme hnětením. 
 
-Peču ve formičkách na pracny. Ještě teplé po upečení je obalujeme v práškové cukru, který je smíchaný s vanilkovým cukrem.
+Pečeme ve formičkách na pracny. Ještě teplé po upečení obalujeme v práškové cukru, který je smíchaný s vanilkovým cukrem.
 
 
 ![Kokosové pracny](../img/kokosove_pracny.JPG) 
