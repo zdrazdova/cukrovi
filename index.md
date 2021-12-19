@@ -2,58 +2,13 @@
 
 Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoční cukroví.
 
-- Linecké
-- Vanilkové rohlíčky
-- Třené rohlíčky
-- Kakaové rohlíčky
-- Kakaové pracny
-- Kokosové pracny
-- Vosí hnízda světlá
-- Vosí hnízda ořechová
-- Vosí hnízda kakaová
-- Citronové cukroví
-- Ořechové košíčky
-- Išelské dortíčky
-- Plněné ořechy
-- Perníčky
-- Kokosové hvězdičky
-- Kokosky
-- Vánoční pralinky
-- Sněhové pusinky
-- Medovníčky
-- Crinkles
-
-
 | xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx |
-| [Linecké](druhy/linecke) ![Linecké](/img/linecke.JPG)                                        | [Vanilkové rohlíčky](druhy/vanilkove_rohlicky) ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG)    | [Třené rohlíčky](druhy/trene_rohlicky) ![Třené rohlíčky](/img/trene_rohlicky.JPG)            |
-| [Kakaové pracny](druhy/kakaove_pracny) ![Kakaové pracny](/img/kakaove_pracny.JPG)            | [Kokosové pracny](druhy/kokosove_pracny) ![Kokosové pracny](/img/kokosove_pracny.JPG)                | [Hnízda světlá](druhy/vosi_hnizda_svetla) ![Hnízda světlá](/img/hnizdo_svetle.JPG) | [Hnízda ořechová](druhy/vosi_hnizda_orechova) ![Hnízda ořechová](/img/hnizdo_orechove.JPG) |
+| [Linecké](druhy/linecke) ![Linecké](/img/linecke.JPG)                                  | [Vanilkové rohlíčky](druhy/vanilkove_rohlicky) ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG)    | [Třené rohlíčky](druhy/trene_rohlicky) ![Třené rohlíčky](/img/trene_rohlicky.JPG)            |
+| [Kakaové pracny](druhy/kakaove_pracny) ![Kakaové pracny](/img/kakaove_pracny.JPG)      | [Kokosové pracny](druhy/kokosove_pracny) ![Kokosové pracny](/img/kokosove_pracny.JPG)                | [Hnízda světlá](druhy/vosi_hnizda_svetla) ![Hnízda světlá](/img/hnizdo_svetle.JPG) | [Hnízda ořechová](druhy/vosi_hnizda_orechova) ![Hnízda ořechová](/img/hnizdo_orechove.JPG) |
 | [Hnízda kakaova](druhy/vosi_hnizda_kakaová) ![Hnízda kakaová](/img/hnizdo_kakaove.JPG) | [Citronové cukroví](druhy/citronove_cukrovi) ![Citronové cukroví](/img/citronove_cukrovi.JPG)    | [Ořechové košíčky](druhy/orechove_kosicky) ![Ořechové košíčky](/img/kosicky.JPG)             | [Išelské dortíčky](druhy/iselske_dorticky) ![Išelské dortíčky](/img/iselske_dorticky.JPG)            |
-| [Plněné ořechy](druhy/plnene_orechy) ![Plněné ořechy](/img/orechy.JPG)                       | [Perníčky](druhy/pernicky) ![Perníčky](/img/pernicky.JPG)                                            | [Kokosové hvězdičky](druhy/kokosove_hvezdicky) ![Kokosové hvězdičky](/img/kokosove_hvezdicky.JPG) | [Kokosky](druhy/kokosky) ![Kokosky](/img/kokosky.JPG)                                           |
-| [Vánoční pralinky](druhy/vanocni_pralinky) ![Vánoční pralinky](/img/pralinky.JPG)            | [Sněhové pusinky](druhy/snehove_pusinky) ![Sněhové pusinky](/img/snehove_pusinky.JPG)                | [Medovníčky](druhy/medovnicky) ![Medovníčky](/img/medovnicky.JPG)                            | [Crinkles](druhy/crinkles) ![Crinkles](/img/crinkles.JPG)                                            |
+| [Plněné ořechy](druhy/plnene_orechy) ![Plněné ořechy](/img/orechy.JPG)                 | [Perníčky](druhy/pernicky) ![Perníčky](/img/pernicky.JPG)                                            | [Kokosové hvězdičky](druhy/kokosove_hvezdicky) ![Kokosové hvězdičky](/img/kokosove_hvezdicky.JPG) | [Kokosky](druhy/kokosky) ![Kokosky](/img/kokosky.JPG)                                           |
+| [Vánoční pralinky](druhy/vanocni_pralinky) ![Vánoční pralinky](/img/pralinky.JPG)      | [Sněhové pusinky](druhy/snehove_pusinky) ![Sněhové pusinky](/img/snehove_pusinky.JPG)                | [Medovníčky](druhy/medovnicky) ![Medovníčky](/img/medovnicky.JPG)                            | [Crinkles](druhy/crinkles) ![Crinkles](/img/crinkles.JPG)                                            |
 
-
-| Druh                                                       | Fotka     |
-|------------------------------------------------------------|--------------------------------------------|
-| [Linecké](druhy/linecke)                           | ![Linecké](/img/linecke.JPG)                       |
-| [Vanilkové rohlíčky](druhy/vanilkove_rohlicky)     | ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG) |
-| [Třené rohlíčky](druhy/trene_rohlicky)             | ![Třené rohlíčky](/img/trene_rohlicky.JPG)         |
-| [Kakaové rohlíčky](druhy/kakaove_rohlicky)         | Není...                                            |
-| [Kakaové pracny](druhy/kakaove_pracny)             | ![Kakaové pracny](/img/kakaove_pracny.JPG)         |
-| [Kokosové pracny](druhy/kokosove_pracny)           | ![Kokosové pracny](/img/kokosove_pracny.JPG)       |
-| [Vosí hnízda světlá](druhy/vosi_hnizda_svetla)     | ![Vosí hnízda světlá](/img/hnizdo_svetle.JPG)      |
-| [Vosí hnízda ořechová](druhy/vosi_hnizda_orechova) | ![Vosí hnízda ořechová](/img/hnizdo_orechove.JPG)  |
-| [Vosí hnízda kakaova](druhy/vosi_hnizda_kakaova)   | ![Vosí hnízda kakaová](/img/hnizdo_kakaove.JPG)    |
-| [Citronové cukroví](druhy/citronove_cukrovi)       | ![Citronové cukroví](/img/citronove_cukrovi.JPG)   |
-| [Ořechové košíčky](druhy/orechove_kosicky)         | ![Ořechové košíčky](/img/kosicky.JPG)              |
-| [Išelské dortíčky](druhy/iselske_dorticky)         | ![Išelské dortíčky](/img/iselske_dorticky.JPG)     |
-| [Plněné ořechy](druhy/plnene_orechy)               | ![Plněné ořechy](/img/orechy.JPG)                  |
-| [Perníčky](druhy/pernicky)                         | ![Perníčky](/img/pernicky.JPG)                     |
-| [Kokosové hvězdičky](druhy/kokosove_hvezdicky)     | ![Kokosové hvězdičky](/img/kokosove_hvezdicky.JPG) |
-| [Kokosky](druhy/kokosky)                           | ![Kokosky](/img/kokosky.JPG)                       |
-| [Vánoční pralinky](druhy/vanocni_pralinky)         | ![Vánoční pralinky](/img/pralinky.JPG)             |
-| [Sněhové pusinky](druhy/snehove_pusinky)           | ![Sněhové pusinky](/img/snehove_pusinky.JPG)       |
-| [Medovníčky](druhy/medovnicky)                     | ![Medovníčky](/img/medovnicky.JPG)                 |
-| [Crinkles](druhy/crinkles)                         | ![Crinkles](/img/crinkles.JPG)                     |
 
 
 
