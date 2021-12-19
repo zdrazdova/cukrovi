@@ -8,3 +8,4 @@
 
 Vypracujeme těsto, tvarujeme rohlíčky. Ještě teplé po upečení je obalujeme v práškové cukru, který je smíchaný s vanilkovým cukrem.
 
+![Vanilkové rohlíčky](../img/vanilkove_rohlicky.JPG) 

@@ -14,4 +14,4 @@ Změklé máslo šlehám s cukrem a po chvíli přidám vejce a ještě šlehám
 Peču ve formičkách na pracny. Ještě teplé po upečení je obalujeme v práškové cukru, který je smíchaný s vanilkovým cukrem.
 
 
-
+ ![Kokosové pracny](../img/kokosove_pracny.JPG) 
