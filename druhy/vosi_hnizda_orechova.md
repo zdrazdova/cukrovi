@@ -29,7 +29,7 @@ Na náplň do vosích hníz je mnoho různých receptů. Používám nastavovan�
 
 Náplní plním vosí hnízda, přidám piškot a hnízdo je hotové.
 
-![Vosí nízdo světlé](../img/hnizdo_svetle.JPG)
+![Vosí nízdo ořechové](../img/hnizdo_orechove.JPG)
 
 Zpátku do [MENU](../index)
 
