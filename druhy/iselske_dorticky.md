@@ -22,3 +22,5 @@ Namočím dortíček v čokoládě, ozdobím mandlí nebo vlašským ořechem
 
 
 ![Išelské dortíčky](../img/iselske_dorticky.JPG) 
+
+Zpátku do [MENU](../index)

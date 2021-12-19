@@ -12,3 +12,5 @@
 Udělejte těsto, vyválejte, vykrojte tvary. Nechce do druhého dne odležet. Poté upečte. Hned po vytažení z trouby můžete perníčky potřít rozšlehaným vejcem.
 
 ![Perníčky](../img/pernicky.JPG)
+
+Zpátku do [MENU](../index)

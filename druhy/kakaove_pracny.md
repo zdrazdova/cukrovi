@@ -12,3 +12,5 @@ Dát do formiček. Těsta spíš míň než víc (během pečení nabydou). Ješ
 Pokud se bojíte, že nepůjdou dobře vyndavat z forem, můžete formičky trochu vytřít tukem. Když pak vezmete kousek těsta, vyválejte ho do kuličky nebo válečku a jednou stranu namočte do hladké mouky. Tou pomoučenou stranou pak vtlačte do formičky. 
 
  ![Kakaové pracny](../img/kakaove_pracny.JPG) 
+ 
+Zpátku do [MENU](../index)

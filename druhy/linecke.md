@@ -10,4 +10,7 @@
 Těsto lze použít buď na klasické linecké cukroví, nebo se z něj mohou dělat košíčky pro ořechové košíčky nebo z něj lze udělat hvězdičky pro kokosové hvězdičky
 
 ![Linecké](../img/linecke.JPG)
+![Linecké](../img/linecke2.JPG)
+![Linecké](../img/linecke3.JPG)
 
+Zpátku do [MENU](../index)
