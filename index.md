@@ -24,7 +24,7 @@ Na této stránce jsou sepsané recepty, podle kterých jsem letos pekla vánoč
 - Crinkles
 
 
-| _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |  _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ |
+| xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx | xxxxxxxxxxxxxxxxxxxxxxx |
 | [Linecké](druhy/linecke) ![Linecké](/img/linecke.JPG)                                        | [Vanilkové rohlíčky](druhy/vanilkove_rohlicky) ![Vanilkové rohlíčky](/img/vanilkove_rohlicky.JPG)    | [Třené rohlíčky](druhy/trene_rohlicky) ![Třené rohlíčky](/img/trene_rohlicky.JPG)            |
 | [Kakaové pracny](druhy/kakaove_pracny) ![Kakaové pracny](/img/kakaove_pracny.JPG)            | [Kokosové pracny](druhy/kokosove_pracny) ![Kokosové pracny](/img/kokosove_pracny.JPG)                | [Hnízda světlá](druhy/vosi_hnizda_svetla) ![Hnízda světlá](/img/hnizdo_svetle.JPG) | [Hnízda ořechová](druhy/vosi_hnizda_orechova) ![Hnízda ořechová](/img/hnizdo_orechove.JPG) |
 | [Hnízda kakaova](druhy/vosi_hnizda_kakaová) ![Hnízda kakaová](/img/hnizdo_kakaove.JPG) | [Citronové cukroví](druhy/citronove_cukrovi) ![Citronové cukroví](/img/citronove_cukrovi.JPG)    | [Ořechové košíčky](druhy/orechove_kosicky) ![Ořechové košíčky](/img/kosicky.JPG)             | [Išelské dortíčky](druhy/iselske_dorticky) ![Išelské dortíčky](/img/iselske_dorticky.JPG)            |
