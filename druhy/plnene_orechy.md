@@ -8,7 +8,7 @@
 - 80 g másla nebo Hery
 
 **Náplň**
-- mleté vlaštské ořechy
+- mleté vlašské ořechy
 - hořká čokoláda
 - příp. máslo
 
@@ -18,7 +18,7 @@
 
 Ze surovin vypracujeme těsto a dáme na chvíli do chladu. Do formiček dáváme malé množství těsta tak, aby zbylo po upečení místo na náplň. Hned po upečení z formičky ořechy vyklopíme a necháme vychladnout. 
 
-Náplň vytvoříme z mletých ořechů a rozpuštěné hořké čokolády. Pokud chceme, můžeme přidat i ušlehané máslo. Náplním plníme ořechy a ty nakonec můžeme namočit ještě do čokolády. 
+Náplň vytvoříme z mletých ořechů a rozpuštěné hořké čokolády. Pokud chceme, můžeme přidat i ušlehané máslo. Náplní plníme ořechy a ty nakonec můžeme namočit ještě do čokolády. 
 
 ![Plněné ořechy](../img/orechy.JPG)
 

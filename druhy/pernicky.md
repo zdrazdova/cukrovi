@@ -5,11 +5,11 @@
 - 2 vejce
 - 140 g cukru moučka
 - 2 lžíce medu
-- 1 káv. lžička jedné sody 
+- 1 káv. lžička jedlé sody 
 - ½ káv. lžičky skořice
 - perníkové koření
 
-Udělejte těsto, vyválejte, vykrojte tvary. Nechce do druhého dne odležet. Poté upečte. Hned po vytažení z trouby můžete perníčky potřít rozšlehaným vejcem.
+Uděláme těsto, vyválíme, vykrojíme tvary. Necháme do druhého dne odležet. Poté upečeme. Hned po vytažení z trouby můžeme perníčky potřít rozšlehaným vejcem.
 
 ![Perníčky](../img/pernicky.JPG)
 

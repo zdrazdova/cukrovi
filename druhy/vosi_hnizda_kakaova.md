@@ -23,11 +23,11 @@ Piškoty a ořechy na těsto najemno nameleme nebo nasekáme. Přidáme změklé
 Formičku vysypeme krupicovým cukrem, natlačíme do ní trochu těsta a uděláme důlek. Vyklopíme z formičky. Může se stát, že první hnízdo půjde špatně vyklopit. Další by už měla jít lépe, protože se pak ve formičce zachytí víc cukru. Vždy nejdřív vysypeme formičku cukrem, pak vtlačíme těsto a vyklopíme hnízdo.
 
 
-Na náplň do kakaových hnízd stačí vaječný likér a trocha mletých piškotů. Do malé mističky nalijeme trochu likéru a postupně přidávám mleté piškoty, dokud není konzistence tak akorát, aby jí šlo hnízda plnit, ale aby moc netekla ven.
+Na náplň do kakaových hnízd stačí vaječný likér a trocha mletých piškotů. Do malé mističky nalijeme trochu likéru a postupně přidáváme mleté piškoty, dokud není konzistence tak akorát, aby jí šlo hnízda plnit, ale aby moc netekla ven.
 
 Náplní plníme vosí hnízda, přidám piškot a hnízdo je hotové.
 
-![Vosí nízdo kakaové](../img/hnizdo_kakaove.JPG)
+![Vosí hnízdo kakaové](../img/hnizdo_kakaove.JPG)
 
 Zpátku do [MENU](../index)
 

@@ -7,7 +7,7 @@
 - citronová kůra
 
 
-Těsto lze použít buď na klasické linecké cukroví, nebo se z něj mohou dělat košíčky pro [ořechové košíčky](orechove_kosicky) nebo z něj lze udělat hvězdičky pro [kokosové hvězdičky](kokosove_hvezdičky).
+Těsto lze použít buď na klasické linecké cukroví, nebo se z něj mohou dělat košíčky pro [ořechové košíčky](orechove_kosicky) nebo z něj lze udělat hvězdičky pro [kokosové hvězdičky](kokosove_hvezdicky).
 
 ![Linecké](../img/linecke.JPG)
 ![Linecké](../img/linecke2.JPG)

@@ -9,9 +9,9 @@
 
 
 
-Změklé máslo šlehám s cukrem a po chvíli přidám vejce a ještě šlehám. Přisypu mouku, citronovou kůru a pořád míchám s pomocí ručního šlehače. Těsto poté ještě dopracuji hnětením. 
+Změklé máslo šleháme s cukrem a po chvíli přidáme vejce a ještě šleháme. Přisypeme mouku, citronovou kůru a pořád mícháme s pomocí ručního šlehače. Těsto poté ještě dopracujeme hnětením. 
 
-Peču ve formičkách na rohlíčky. Po vychladnutí namočím konce do čokolády.
+Pečeme ve formičkách na rohlíčky. Po vychladnutí namočíme konce do čokolády.
 
 ![Třené rohlíčky](../img/trene_rohlicky.JPG) 
 
