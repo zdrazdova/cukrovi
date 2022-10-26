@@ -2,4 +2,4 @@
 
 - sepsané na větvi **gh-pages**
 
-- dostupné na adrese: [zdrazdova.github.io/cukrovi/index](zdrazdova.github.io/cukrovi/index)
+- dostupné na adrese: [zdrazdova.github.io/cukrovi/index](https://zdrazdova.github.io/cukrovi/index)
