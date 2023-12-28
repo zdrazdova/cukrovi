@@ -11,6 +11,7 @@
 Všechny suroviny krom kandovaného ovoce smícháme a uhněteme z nich těsto. 
 
 Poté jsou dvě varianty, jaké cukroví lze dělat:
+
 a) Pokud máme kandované např. kousky citrusů, zamícháme je do těsta a to necháme chvíli odležet v chladu. 
 Pak z něj tvarujeme válečky nebo kvádry, zabalímo do potravinářské fólie a dáme na pár minut do mrazáku. 
 Nakonec nakrájíme na plátky (0.5 cm) a pečeme. Tato varianta je na fotce
