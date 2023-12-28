@@ -13,6 +13,6 @@ Změklé máslo šleháme s cukrem a po chvíli přidáme vejce a ještě šleh�
 
 Pečeme ve formičkách na rohlíčky. Po vychladnutí namočíme konce do čokolády.
 
-![Třené rohlíčky](../img/trene_rohlicky.JPG) 
+![Třené rohlíčky](../img/trene_rohlicky.jpg) 
 
 Zpátku do [MENU](../index)

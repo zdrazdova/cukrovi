@@ -11,4 +11,6 @@ Všechny suroviny smícháme. Těsto dáme to strojku a tvarujeme cukroví.
 
 Ještě teplé po upečení obalujeme v práškové cukru, který je smíchaný s vanilkovým cukrem.
 
+![Kokosové do strojku](../img/kokosove_do_strojku.jpg) 
+
 Zpátky do [MENU](../index)

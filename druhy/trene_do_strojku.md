@@ -11,4 +11,6 @@ Všechny suroviny smícháme. Těsto dáme to strojku a tvarujeme cukroví.
 
 Po vychladnutí slepujeme marmeládou a namáčíme konce o čokolády
 
+![Třené do strojku](../img/trene_do_strojku.jpg) 
+
 Zpátky do [MENU](../index)
