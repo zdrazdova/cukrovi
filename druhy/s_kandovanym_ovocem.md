@@ -8,6 +8,12 @@
 - citrónová kůra
 - 100g kandovaného ovoce dle chuti
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
+
 Všechny suroviny krom kandovaného ovoce smícháme a uhněteme z nich těsto. 
 
 Poté jsou dvě varianty, jaké cukroví lze dělat:

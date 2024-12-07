@@ -4,6 +4,12 @@
 - 180 g cukru moučka
 - 200 g strouhaného kokosu
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
+
 Nejprve šleháme chvilku samotné bílky, poté šleháme ve vodní lázni a postupně přidáváme cukr. Když je všechen cukr přidán, šleháme ještě třeba 3-5 min. 
 
 Necháme sníh zchladnout a poté do něj postupně zašleháme strouhaný kokos. Pomocí lžičky tvoříme malé hromádky na pečící papír. Pečeme v troubě vyhřáté na 140° C asi 15-20 minut, než tak akorát zezlátnou.

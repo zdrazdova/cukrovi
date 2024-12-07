@@ -12,10 +12,15 @@
 - vaječný likér
 - mleté piškoty
 
-
 **Dokončení**
 - cukr krupice
 - piškoty
+
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
 
 Piškoty a ořechy na těsto najemno nameleme nebo nasekáme. Přidáme změklé máslo, cukr, kakao a několik lžic rumu. Uhněteme těsto. Pokud se drobí, přidáme víc rumu nebo mléko. 
 

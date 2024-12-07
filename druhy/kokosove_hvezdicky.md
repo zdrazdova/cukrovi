@@ -15,6 +15,12 @@
 **Dozdobení**
 - 50 g čokolády na vaření
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
+
 Uděláme těsto jako na linecké, vykrájíme z něj hvězdičky, kolečka nebo podobné tvary a upečeme. 
 
 Připravíme náplň ze Salka a kokosu, kokos přidáváme postupně, aby měla hmota konzistenci tak akorát (nesmí se moc drobit a ani nesmí být moc lepivá). 

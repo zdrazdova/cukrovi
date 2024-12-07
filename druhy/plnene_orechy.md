@@ -15,6 +15,11 @@
 **Dozdobení**
 - 50 g čokolády na vaření
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
 
 Ze surovin vypracujeme těsto a dáme na chvíli do chladu. Do formiček dáváme malé množství těsta tak, aby zbylo po upečení místo na náplň. Hned po upečení z formičky ořechy vyklopíme a necháme vychladnout. 
 

@@ -11,6 +11,12 @@
 - 6 g kypřícího prášku do pečiva
 - 2 vejce
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
+
 Vyšleháme změklé máslo s cukrem, postupně přidáme vejce. Poté postupně přidáváme ostatní suroviny. Hotové těsto dáme přes noc do lednice, aby dostatečně ztuhlo.
 
 Tvarujeme kuličky, které obalíme v práškovém cukru a umístíme na plech na pečící papír s dostatečnými rozestupy a upečeme.

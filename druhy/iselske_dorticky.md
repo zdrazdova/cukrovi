@@ -20,6 +20,12 @@
 - 100 g hořké čokolády
 - celé loupané mandle nebo poloviny vlašských ořechů
 
+<!-- Ingredient Adjuster -->
+<label for="factor">Dávka:</label>
+<input type="number" id="factor" min="0" max="5" step="0.1" value="1">
+<button onclick="adjustAmounts()">Přepočítat</button>
+<script src="../js/adjustAmounts.js"></script>
+
 Z těsta vykrájíme kolečka a upečeme. Ze změklého másla, cukru a ostatních surovin ušleháme náplň. Spojujeme kolečka náplní - použijeme buď příborový nůž nebo cukrářský sáček. Dortíčky necháme chvíli odležet v chladu a nakonec namočíme jednu stranu do čokolády a ozdobíme ořechem.
 
 
