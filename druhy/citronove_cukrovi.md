@@ -27,5 +27,5 @@ Z citrónové šťávy, vody a prosátého cukru tvoříme polevu, do které vž
 
 ![Citrónové cukroví](../img/citronove_cukrovi.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 

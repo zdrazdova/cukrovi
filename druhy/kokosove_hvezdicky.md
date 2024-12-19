@@ -29,4 +29,4 @@ Uděláme kuličku z náplně, dovnitř zabalíme jednu mandli a celé to připl
 
 ![Kokosové hvězdičky](../img/kokosove_hvezdicky.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

@@ -27,6 +27,6 @@ Náplň vytvoříme z mletých ořechů a rozpuštěné hořké čokolády. Poku
 
 ![Plněné ořechy](../img/orechy.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 
 

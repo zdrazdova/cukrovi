@@ -21,4 +21,4 @@ Pečeme ve formičkách na pracny. Ještě teplé po upečení obalujeme v prá�
 
 ![Kokosové pracny](../img/kokosove_pracny.JPG) 
  
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

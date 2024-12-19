@@ -16,4 +16,4 @@ Necháme sníh zchladnout a poté do něj postupně zašleháme strouhaný kokos
 
 ![Kokosky](../img/kokosky.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

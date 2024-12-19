@@ -16,5 +16,5 @@ Z marcipánu tvoříme jednoduché tvary, které vtlačíme do připravených po
 
 ![Vánoční pralinky](../img/pralinky.png)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 

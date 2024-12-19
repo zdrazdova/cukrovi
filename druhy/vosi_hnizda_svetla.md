@@ -34,5 +34,5 @@ Náplní plníme vosí hnízda, přidáme piškot a hnízdo je hotové.
 
 ![Vosí hnízdo světlé](../img/hnizdo_svetle.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 

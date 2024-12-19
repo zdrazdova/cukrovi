@@ -18,4 +18,4 @@ Těsto lze použít buď na klasické linecké cukroví, nebo se z něj mohou d�
 ![Linecké](../img/linecke2.JPG)
 ![Linecké](../img/linecke3.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

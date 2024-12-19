@@ -16,5 +16,5 @@ Pomocí cukrářského sáčku tvoříme malé pusinky na pečící papír a pak
 
 ![Sněhové pusinky](../img/snehove_pusinky.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 

@@ -34,5 +34,5 @@ Náplní plníme vosí hnízda, přidám piškot a hnízdo je hotové.
 
 ![Vosí hnízdo kakaové](../img/hnizdo_kakaove.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 

@@ -35,5 +35,5 @@ Náplní plníme vosí hnízda, přidáme piškot a hnízdo je hotové.
 
 ![Vosí hnízdo ořechové](../img/hnizdo_orechove.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
 
