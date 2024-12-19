@@ -19,4 +19,4 @@ Uděláme těsto, vyválíme, vykrojíme tvary. Necháme do druhého dne odleže
 
 ![Perníčky](../img/pernicky.JPG)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

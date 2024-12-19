@@ -19,4 +19,4 @@ Pokud se bojíte, že nepůjdou dobře vyndavat z forem, můžete formičky troc
 
  ![Kakaové pracny](../img/kakaove_pracny.JPG) 
  
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)

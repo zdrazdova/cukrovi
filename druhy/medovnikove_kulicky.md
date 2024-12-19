@@ -6,4 +6,4 @@ Vychladlé korpusy nameleme najemno. Většinu namletých korpusů přidáme k n
 
 ![Medovníkové kuličky](../img/medovnik_koule.jpg)
 
-Zpátku do [MENU](../index)
+Zpátky do [MENU](../index)
