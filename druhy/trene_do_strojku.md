@@ -15,6 +15,8 @@
 
 Všechny suroviny smícháme. Těsto dáme to strojku a tvarujeme cukroví.
 
+Pečeme na 180 °C asi 12 minut.
+
 Po vychladnutí slepujeme marmeládou a namáčíme konce o čokolády
 
 ![Třené do strojku](../img/trene_do_strojku.jpg) 
